@@ -10,3 +10,4 @@ github_username:  gdbarron # DO NOT include the @ character, or else the build w
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: jekyll-theme-hacker
+timezone: America/New_York
