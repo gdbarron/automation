@@ -9,5 +9,5 @@ twitter_username: gd_barron # DO NOT include the @ character, or else the build 
 github_username:  gdbarron # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: jekyll-theme-cayman
+theme: minima
 timezone: America/New_York
